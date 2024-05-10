@@ -17,9 +17,3 @@
 ### My Projects :
 
 
----
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NewStudentOk)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewStudentOk&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
