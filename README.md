@@ -14,6 +14,6 @@
 </div>
 
 ---
-### My Projects :
-
-
+### Курсовые проекты:
+ ### [Игра "Жизнь"]().
+ ### [Симулятор гонок](https://github.com/NewStudentOk/Race_simulator)
