@@ -15,5 +15,5 @@
 
 ---
 ### Курсовые проекты:
- ### [Игра "Жизнь"]().
+ ### [Игра "Жизнь"](https://github.com/NewStudentOk/game_of_life).
  ### [Симулятор гонок](https://github.com/NewStudentOk/Race_simulator).
